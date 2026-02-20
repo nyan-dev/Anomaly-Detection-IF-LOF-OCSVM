@@ -1,0 +1,6 @@
+Initial rows: 175005
+Rows dropped: 587
+Final rows: 174418
+Cleaning rules:
+- Dropped impossible dates (THRU < FROM)
+- Dropped negative payments
