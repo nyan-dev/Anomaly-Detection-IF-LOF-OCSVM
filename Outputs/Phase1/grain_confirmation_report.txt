@@ -1,0 +1,4 @@
+Grain: One row = one claim
+CLM_ID unique: True
+SEGMENT constant: True
+DESYNPUF_ID repeats: True
