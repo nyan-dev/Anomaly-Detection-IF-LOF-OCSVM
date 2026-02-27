@@ -99,7 +99,7 @@ This document contains all stage and phase summaries extracted from the `medical
 - Generated correlation heatmap
 
 **Key findings:**
-- Feature table: [174,418] rows x 15 features
+- Feature table: [174,418] rows x 14 features
 - No NaNs remaining
 - 174,418 rows and 16 columns (which includes 14 engineered features plus CLM_ID and DESYNPUF_ID)
 - High correlation detected between month and quarter (0.968)
