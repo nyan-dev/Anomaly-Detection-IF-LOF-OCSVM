@@ -90,7 +90,7 @@ This document contains all stage and phase summaries extracted from the `medical
 ### Stage 5 Summary: Feature Engineering v1
 
 **What was done:**
-- Created 15 engineered features across 4 categories:
+- Created 14 engineered features across 4 categories:
   - Monetary: log_payment, payment_zscore, high_cost_flag, zero_payment_flag
   - Temporal: claim_duration, month, quarter, day_of_week, weekend_flag
   - Coding: diagnosis_count, procedure_count, total_code_count
